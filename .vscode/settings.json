@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "package.json": "jsonc",
+        "tsconfig.json": "jsonc",
+        "package-lock.json": "jsonc"
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true
+}
